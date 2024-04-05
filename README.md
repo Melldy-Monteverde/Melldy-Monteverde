@@ -25,6 +25,7 @@ Adaptable and quick to learn, I am poised to make significant contributions and 
 <a src="https://www.postman.com/product/what-is-postman/"><img src="./assets/postman.png"/></a>
 <a src="https://www.w3schools.com/mysql/mysql_intro.asp/"><img src="./assets/mysql.png"/></a>
 <a src="https://manjaro.org/"><img src="./assets/manjaro.png"/></a>
+<a src="https://pt.wikipedia.org/wiki/Linux"><img src="./assets/linux.png"/></a>
 <a src="https://www.hostinger.es/tutoriales/que-es-cli"><img src="./assets/terminal-square.png"/></a>
 <a src="https://git-scm.com/"><img src="./assets/git.png"/></a>
 
