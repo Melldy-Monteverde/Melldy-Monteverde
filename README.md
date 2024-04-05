@@ -34,5 +34,5 @@ Adaptable and quick to learn, I am poised to make significant contributions and 
 - 🌱 I’m currently learning Python for fun 🤓
 - 🙌 I’m looking to collaborate on projects as a developer or QA 👽
 - 📫 How to reach me: There is my current links for contact [contact me](https://biolink-43ih.onrender.com/) 💬
-- 😄 Pronouns: I'm Melldy but everybody call me Lex 🤘😁!
+- 😄 Nickname: I'm Melldy but everybody call me Lex 🤘😁!
 - ⚡ Fun fact: I'm a chef, then I found javascript and it cook my mind 😅🔪
